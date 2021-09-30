@@ -1,3 +1,9 @@
+# Qué es el proyecto?
+En este proyecto implemento un login con google a través de Firebase
+
+# Comandos
+npx create-react-app / npm i firebase
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
